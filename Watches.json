@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "SmartXplorer",
+    "price": "$200"
+  },
+  {
+    "id": 2,
+    "name": "SmartFitness Pro",
+    "price": "$150"
+  },
+  {
+    "id": 3,
+    "name": "Intelligent Omega",
+    "price": "$180"
+  },
+  {
+    "id": 4,
+    "name": "SmartAcula",
+    "price": "$300"
+  },
+  {
+    "id": 5,
+    "name": "SmartLightning",
+    "price": "$250"
+  }
+]
